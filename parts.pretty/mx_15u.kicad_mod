@@ -29,6 +29,6 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 37c6e880-d38b-45e0-9c4e-d10a8b30a47e))
   (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask) (tstamp 77b7c762-b7d4-4217-88bd-626e9e9968b1))
   (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask) (tstamp c45dea3a-bbb6-41c9-937a-657e54d88642))
-  (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.524) (layers *.Cu "B.Mask") (tstamp a146314c-a8ba-4563-83ac-e84eac74d99a))
-  (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.524) (layers *.Cu "B.Mask") (tstamp f71a535f-1118-4bcf-9e02-d58c6c4343cc))
+  (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.524) (layers *.Cu *.Mask) (tstamp a146314c-a8ba-4563-83ac-e84eac74d99a))
+  (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.524) (layers *.Cu *.Mask) (tstamp f71a535f-1118-4bcf-9e02-d58c6c4343cc))
 )
