@@ -90,4 +90,15 @@
   (pad "" np_thru_hole circle (at 11.93825 6.985) (size 3.048 3.048) (drill 3.048) (layers "*.Cu" "*.Mask") (tstamp 55f1eff3-7ea6-4365-b7d1-51de59887a46))
   (pad "1" smd rect (at -7.56 -2.539999) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp bedeac2b-bfd6-4911-8731-35035e8af4f0))
   (pad "2" smd rect (at 6.29 -5.079999) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e8f67194-d340-4608-8ea5-23841c863f33))
+	(model "${KIPRJMOD}/lck_parts/3dparts/kailh_hs_mx.step"
+		(offset
+			(xyz -0.6 4.8 -3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 -180 0)
+		)
+	)
 )
